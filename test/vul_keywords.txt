@@ -1,0 +1,20 @@
+VUL_KEYWORDS = ['advisory', 'attack', 'authenticate', 'authentication', 'brute force', 'bypass', 'check', 'clickjack', 'compromise', 'constant time', 'constant-time', 'corrupt', 'crack', 'craft', 'crash', 'credential', 'cross−origin' , 'cross site', 'cross Site Request Forgery', 'cross-Site Request Forgery', 'Dan Rosenberg', 'deadlock', 'deep recursion', 'denial of service' , 'denial-of-service', 'directory traversal', 'disclosure', 'dos', 'endless loop', 'exhaust', 'exploit', 'expose', 'exposing', 'exposure', 'fail', 'fixes CVE-', 'forgery', 'fuzz', 'general protection fault', 'GPF', 'grsecurity', 'guard', 'hack', 'harden', 'hijack', 'https://bugzilla', 'illegal', 'improper' , 'initialize', 'injection', 'insecure', 'invalid', 'KASAN', 'leak', 'limit', 'lockout', 'long loop', 'loop', 'malicious', 'malicious', 'man in the middle', 'man-in-the-middle', 'mishandle', 'MITM', 'negative','NVD', 'off-by-one', 'oops', 'open redirect', 'oss-security', 'OSVDB',  'panic', 'password', 'PoC', 'poison', 'prevent', 'privesc', 'privilege','privilege', 'proof of concept', 'protect, race', 'race condition', 'RCE', 'ReDoS', 'remote code execution', 'replay', 'sanity check', 'sanity-check', 'security', 'security fix', 'security issue', 'security problem', 'session fixation', 'snprintf', 'spoof', 'syzkaller', 'traversal', 'trinity', 'unauthorized', 'unauthorized', 'undefined behavior', 'undefined behaviour', 'underflow', 'unexpected', 'uninitialise', 'uninitialize', 'unrealize', 'valid', 'verification', 'verifies', 'verify', 'violate', 'violation', 'vsecurity', 'vuln', 'vulnerab', 'XML External Entity', 'XSRF', 'XSS', 'XXE']
+
+vul_types = ['overflow', 'out of bound', 'null pointer', \
+                 'buffer underwrite', 'buffer underflow', 'buffer overwrite', \
+                 'buffer over read', 'buffer over-read', 'buffer under read', \
+                 'buffer under-read', 'Buffer Copy without Checking Size of Input', \
+                 'Write-what-where Condition', 'Wrap-around Error', \
+                 'Improper Validation of Array Index', 'Not Failing Securely', \
+                 'Failing Open', 'Unchecked Input for Loop Condition', 'Double-Checked Locking', \
+                 'Sensitive Data Storage in Improperly Locked Memory', \
+                 'Free of Memory not on the Heap', 'Context Switching Race Condition', \
+                 'Divide By Zero', 'division-by-zero', 'div-by-zero', \
+                 'Division by zero', 'Insufficient Verification', 'Improper Verification', \
+                 'Incorrect Pointer Scaling', 'Incorrect Use of Privileged APIs', \
+                 'null pointer', 'use after free', 'memory leak', 'buffer overrun', \
+                 'buffer underrun', 'infinite loop', 'uninitialized-variable', 'oobread']
+
+
+
+
